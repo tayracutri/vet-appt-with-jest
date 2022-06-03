@@ -1,4 +1,4 @@
-# vet-appt-with-jest
+# Vet appointment project with Jest
 
 ## Description
 
